@@ -85,10 +85,11 @@ Navigate to the complete code folder:
 cd COMPLETE_MODEL
 streamlit run app.py
 ```
+---
+---
 <img width="548" height="287" alt="recording" src="https://github.com/user-attachments/assets/da222d59-f1f7-4ade-a4e1-8f992dfad0c9" />
 
 ---
-
 
 ---
 
@@ -99,8 +100,9 @@ streamlit run app.py
 3. Wait for transcription to appear on screen.
 4. The AI will process your query and speak back using both **Piper TTS** and **VITS TTS**.
 ---
+---
 <img width="769" height="591" alt="answer2" src="https://github.com/user-attachments/assets/ecd51217-ede1-4c6b-8719-bc6151065e9c" />
-
+---
 ---
 ✅ You’ll see messages like:
 - *Recording... Speak now!*
@@ -112,6 +114,9 @@ streamlit run app.py
 Then you can **play both audio outputs** directly in the UI.
 ---
 ![image 1](https://github.com/user-attachments/assets/4d4ba158-59db-40da-870b-4dd363b45cbc)
+---
+![ireland vi](https://github.com/user-attachments/assets/18e6f059-f942-4ed6-949c-3bc6f6b0d284)
+
 
 ---
 
